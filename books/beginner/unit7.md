@@ -35,6 +35,21 @@ We use _that_ to refer to things that are not near to us.
 **That**'s my house. <br>
 I don't like **that** car.
 
+### 1.4 Negative questions
+
+<table>
+    <tr>
+        <td rowspan="2">Why</td>
+        <td><b>don't</b></td>
+        <td>I <br> you <br> we <br> they</td>
+        <td rowspan="2">eat tomatoes?</td>
+    </tr>
+    <tr>
+        <td><b>doesn't</b></td>
+        <td>he <br> she</td>
+    </tr>
+</table>
+
 [To the previous unit](./unit6.md) <br>
 [To the next unit](./unit8.md) <br>
 [Back to units list](./beginner.md)
