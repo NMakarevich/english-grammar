@@ -92,7 +92,7 @@ I **always** have tea for breakfast.
 | **Does** he **like** football?  | Yes, he **does**. <br> No, he **doesn't**.  |
 | **Does** she **speak** English? | Yes, she **does**. <br> No, she **doesn't** |
 
-> [!NOTE] <br>
+> [!NOTE]
 > Does he like tea? Yes, he does. NOT ~~Yes, he likes.~~ <br>
 > Do you like coffee? No, I don't. NOT ~~No, I don't like.~~
 
