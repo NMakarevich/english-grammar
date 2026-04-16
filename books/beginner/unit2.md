@@ -66,4 +66,6 @@ he's = he is
 | It<b>'s</b> (It is)                                                                 | a laptop                     |
 | They<b>'re</b> (They are)                                                           | in New York. <br> married.   |
 
+[To the previous unit](./unit1.md) <br>
+[To the next unit](./unit3.md) <br>
 [Back to units list](./beginner.md)
