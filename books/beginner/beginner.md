@@ -6,6 +6,7 @@
 4. [Unit 4](./unit4.md)
 5. [Unit 5](./unit5.md)
 6. [Unit 6](./unit6.md)
+7. [Unit 7](./unit7.md)
 
 
 [Back to books list](../../README.md)
