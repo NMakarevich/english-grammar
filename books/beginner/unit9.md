@@ -67,8 +67,8 @@ Where **were you** yesterday? <br>
 Yes, **she was**./No, **she wasn't**.
 
 > [!NOTE]
-> We use _was/were_ with _born_, not _am/is/are_.
-> Where **were** you **born**? NOT ~~Where are you born?~~
+> We use _was/were_ with _born_, not _am/is/are_. <br>
+> Where **were** you **born**? NOT ~~Where are you born?~~ <br>
 > He **was born** in Russia. NOT ~~He is born in Russia.~~
 
 ### 4.2 Past Simple - irregular verbs
